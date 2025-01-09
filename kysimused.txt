@@ -2,6 +2,16 @@ NB! Iga kysimus peame commiti
 
 ## Küsimused projekti kohta:
 * Millised on projekti planeerimisel peamised etapid, mida tuleks arvesse võtta riskide minimeerimiseks ja tähtaegade täitmiseks?
+
+Projekti planeerimisel peaks arvesse võtma järgmisi etappe:
+
+Eesmärkide ja ulatuse määratlus – selged eesmärgid ja ulatus aitavad vältida riske.
+Ressursside planeerimine – õigete ressursside tagamine projekti edukuseks.
+Ajagraafiku koostamine – tähtaegade ja ülesannete jaotamine.
+Riskianalüüs – riskide tuvastamine ja maandamine.
+Kommunikatsiooniplaan – regulaarne teabevahetus meeskonnas.
+Jõudluse jälgimine – projekti edenemise kontrollimine.
+Lõpphindamine – õppetundide õppimine ja projekti analüüs.
 * Kuidas jaotada meeskonna ressursse, kui tähtajad on lühikesed ja töömaht ületab oodatava?
 ## Küsimused versioonikontrollisüsteemi kohta
 * Mis on versioonihaldussüsteem ja milleks seda kasutatakse?
