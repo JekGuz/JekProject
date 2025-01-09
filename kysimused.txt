@@ -29,6 +29,13 @@ Versioonihaldussüsteem (VCS) on tarkvara, mis jälgib ja haldab failide ja kood
 ajaloos hoidmiseks, varasematesse versioonidesse tagasipöördumiseks, meeskonnatööd hõlbustamiseks ja muudatuste jälgimiseks.
 
 * Mis vahe on tsentraliseeritud ja hajutatud versioonihaldussüsteemil?
+
+Tsentraliseeritud versioonihaldussüsteem (CVCS) salvestab andmed ühes keskse serveris, kõik töötavad serveri koopiatelt. 
+Näited: SVN, CVS.
+
+Hajutatud versioonihaldussüsteem (DVCS) annab igale kasutajale täiskohaliku koopiat kogu projekti ajaloost, muudetud andmed 
+saab hiljem teistega sünkroonida. Näited: Git, Mercurial.
+
 ## Minu valikus küsimused
 * Kuidas Pythonis teksti ekraanile kuvada?
 * Millist käsku kasutatakse Linuxi serveri taaskäivitamiseks?
