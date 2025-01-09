@@ -17,7 +17,7 @@ git push
 
 ## Ära unusta:
 * *NB! Ära unusta* **git status** 
-* **Iga küsimus on vajalik**
+* **Iga küsimus on vajalik** `commit` 
 
   
 # Küsimuse ülevaade
