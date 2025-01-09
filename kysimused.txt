@@ -13,6 +13,12 @@ Kommunikatsiooniplaan – regulaarne teabevahetus meeskonnas.
 Jõudluse jälgimine – projekti edenemise kontrollimine.
 Lõpphindamine – õppetundide õppimine ja projekti analüüs.
 * Kuidas jaotada meeskonna ressursse, kui tähtajad on lühikesed ja töömaht ületab oodatava?
+Prioriteedid: Keskendu tähtsaimatele ülesannetele.
+Jagamine: Loo väiksemad ülesanded.
+Spetsialiseerumine: Jaota töö vastavalt oskustele.
+Täiendavad ressursid: Kaasa lisajõud.
+Ümberstruktureerimine: Paiguta meeskonnaliikmed ümber.
+Kommunikatsioon: Jälgi töö edenemist ja suhtle pidevalt.
 ## Küsimused versioonikontrollisüsteemi kohta
 * Mis on versioonihaldussüsteem ja milleks seda kasutatakse?
 * Mis vahe on tsentraliseeritud ja hajutatud versioonihaldussüsteemil?
