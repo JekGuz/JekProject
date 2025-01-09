@@ -18,3 +18,5 @@ Vaata ka minu konspektid wp-porfolio
 < a href="#https://jekaterinaguzek24.thkit.ee/wp/" target=_blank>"WP link"</a>
 
 This site was built using [GitHub Pages](https://pages.github.com/).
+
+![image](https://github.com/user-attachments/assets/11c8925c-3b0b-477f-9041-816ebea5c9d0)
