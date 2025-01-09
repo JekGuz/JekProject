@@ -24,6 +24,10 @@ Kui tähtaeg on lühike ja töömaht suur, tuleb:
 
 ## Küsimused versioonikontrollisüsteemi kohta
 * Mis on versioonihaldussüsteem ja milleks seda kasutatakse?
+
+Versioonihaldussüsteem (VCS) on tarkvara, mis jälgib ja haldab failide ja koodi muudatusi. Seda kasutatakse muudatuste 
+ajaloos hoidmiseks, varasematesse versioonidesse tagasipöördumiseks, meeskonnatööd hõlbustamiseks ja muudatuste jälgimiseks.
+
 * Mis vahe on tsentraliseeritud ja hajutatud versioonihaldussüsteemil?
 ## Minu valikus küsimused
 * Kuidas Pythonis teksti ekraanile kuvada?
