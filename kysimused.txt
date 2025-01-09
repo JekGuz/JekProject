@@ -21,7 +21,11 @@ Täiendavad ressursid: Kaasa lisajõud.
 Kommunikatsioon: Jälgi töö edenemist ja suhtle pidevalt.
 ## Küsimused versioonikontrollisüsteemi kohta
 * Mis on versioonihaldussüsteem ja milleks seda kasutatakse?
+Versioonihaldussüsteem (VCS) on tarkvaratööriist, mis jälgib ja salvestab failide muudatusi ajas, võimaldades arendajatel teha tagasivõtteid, võrrelda versioone ja töötada meeskonnas. Seda kasutatakse koodimuudatuste haldamiseks, koostööks ja probleemide lahendamiseks.
 * Mis vahe on tsentraliseeritud ja hajutatud versioonihaldussüsteemil?
+Tsentraliseeritud VCS (nt SVN) kasutab ühte keskset serverit, kuhu salvestatakse kõik muudatused, ja kõik meeskonnaliikmed töötavad sellelt serverilt.
+Hajutatud VCS (nt Git) salvestab iga kasutaja masinas täisversiooni repositooriumi, võimaldades töötada lokaalselt ja sünkroonida muudatused serveriga hiljem.
 ## Minu valikus küsimused
 * Kuidas Pythonis teksti ekraanile kuvada?
+print("Tere, maailm!")
 * Millist käsku kasutatakse Linuxi serveri taaskäivitamiseks?
