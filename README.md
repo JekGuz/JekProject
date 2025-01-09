@@ -1,5 +1,5 @@
-# TODO list
 <a name="readme-top"></a>
+# TODO list
 Mida vaja projektis teha:
 * git branch `nimi`
 * git checkout `nimi`
