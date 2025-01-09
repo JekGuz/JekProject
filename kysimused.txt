@@ -13,6 +13,15 @@ Projekti planeerimise peamised etapid riskide minimeerimiseks ja tähtaegade tä
     Kommunikatsiooniplaan — efektiivne teabe jagamine meeskonna ja huvigruppidega.
 
 * Kuidas jaotada meeskonna ressursse, kui tähtajad on lühikesed ja töömaht ületab oodatava?
+
+Kui tähtaeg on lühike ja töömaht suur, tuleb:
+
+    Määrata prioriteedid ja keskenduda kõige tähtsamatele ülesannetele.
+    Jagada ülesanded väiksemateks osadeks.
+    Arvestada meeskonnaliikmete tugevusi.
+    Vajadusel kaasata täiendavaid ressursse.
+    Optimeerida ajajuhtimist ja tagada hea suhtlus.
+
 ## Küsimused versioonikontrollisüsteemi kohta
 * Mis on versioonihaldussüsteem ja milleks seda kasutatakse?
 * Mis vahe on tsentraliseeritud ja hajutatud versioonihaldussüsteemil?
