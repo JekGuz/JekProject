@@ -29,3 +29,4 @@ Hajutatud VCS (nt Git) salvestab iga kasutaja masinas täisversiooni repositoori
 * Kuidas Pythonis teksti ekraanile kuvada?
 print("Tere, maailm!")
 * Millist käsku kasutatakse Linuxi serveri taaskäivitamiseks?
+sudo reboot
