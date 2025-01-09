@@ -33,7 +33,10 @@ git add .
 git commit -a -m "commit sisu"
 git push
 ```
-*NB! Ära unusta* **git status** 
+
+### Ära unusta:
+* *NB! Ära unusta* **git status** 
+* **Iga küsimus on vajalik**
 
 
 <a href="#readme-top">"Ülesse"</a>
