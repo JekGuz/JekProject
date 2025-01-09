@@ -1,5 +1,26 @@
-# Ülevaade
+# TODO list
 <a name="readme-top"></a>
+Mida vaja projektis teha:
+* git branch `nimi`
+* git checkout `nimi`
+* git add .
+* git commit -a -m "`mida on tehtud`"
+* git push
+```
+git branch JekGuz
+git checkout Jekguz
+git status
+git add .
+git commit -a -m "commit sisu"
+git push
+```
+
+## Ära unusta:
+* *NB! Ära unusta* **git status** 
+* **Iga küsimus on vajalik**
+
+  
+# Küsimuse ülevaade
 ### Küsimused projekti kohta
 * Millised on projekti planeerimisel peamised etapid, mida tuleks arvesse võtta riskide minimeerimiseks ja tähtaegade täitmiseks?
 * Kuidas jaotada meeskonna ressursse, kui tähtajad on lühikesed ja töömaht ületab oodatava?
@@ -17,27 +38,6 @@
 * Millist käsku kasutatakse Linuxi serveri taaskäivitamiseks?
 
 ![image](https://github.com/user-attachments/assets/e7ddc80c-a3ec-4984-991b-1515595938fd)
-
-## TODO list
-Mida vaja projektis teha:
-* git branch `nimi`
-* git checkout `nimi`
-* git add .
-* git commit -a -m "`mida on tehtud`"
-* git push
-```
-git branch JekGuz
-git checkout Jekguz
-git status
-git add .
-git commit -a -m "commit sisu"
-git push
-```
-
-### Ära unusta:
-* *NB! Ära unusta* **git status** 
-* **Iga küsimus on vajalik**
-
 
 <a href="#readme-top">"Ülesse"</a>
 
