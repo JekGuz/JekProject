@@ -38,4 +38,7 @@ saab hiljem teistega sünkroonida. Näited: Git, Mercurial.
 
 ## Minu valikus küsimused
 * Kuidas Pythonis teksti ekraanile kuvada?
+
+Pythonis saab teksti ekraanile kuvada, kasutades print() funktsiooni.
+
 * Millist käsku kasutatakse Linuxi serveri taaskäivitamiseks?
